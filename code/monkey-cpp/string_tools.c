@@ -20,16 +20,34 @@ const char** string_split_string(const char* str, char splite,
 
     int default_malloc_size = 8;
     int malloc_size = default_malloc_size;
-    int result_index = 0, str_index = 0, previous_index = 0;
-    const char* p = str;
-    char c;
+    int result_index = 0, cur_index = 0, pre_index = 0;
 
+    const char* cur_p = str;
+    char cur_c = *cur_p;
     char** result = NULL;
-    while ((c = *p++) != 0
-            || (!c && previous_index != str_index && previous_index != 0)) {
+
+    while ((cur_c = *cur_p++) != 0
+            || (!cur_c && pre_index != cur_index && pre_index != 0)) {
 
         //have length
-        if ((c == splite && str_index - previous_index > 0) || !c) {
+        if (cur_c == splite || !cur_c) {
+
+            //find the not splite index, but need smaller than cur_index
+            while (pre_index < cur_index && *(str + pre_index) == splite) {
+                pre_index++;
+            }
+
+            if (cur_index <= pre_index) {
+                //it' not end, need continue
+                if (cur_c) {
+                    pre_index = ++cur_index;
+                    continue;
+                } else {
+                    //it's end, break
+                    break;
+                }
+            }
+
             if (!result) {
                 result = (char**) malloc(sizeof(char*) * malloc_size);
                 if (!result) {
@@ -51,28 +69,28 @@ const char** string_split_string(const char* str, char splite,
             }
 
             //get the string
-            int part_size = str_index - previous_index;
+            int part_size = cur_index - pre_index;
             char* value = malloc(sizeof(char) * part_size + 1);
             if (!value) {
                 exit(1);
             }
 
-            strncpy(value, str + previous_index, part_size);
+            strncpy(value, str + pre_index, part_size);
 
             //need set the end '\0'
             value[part_size] = '\0';
 
-            previous_index = str_index + 1;
+            pre_index = cur_index + 1;
 
             result[result_index++] = value;
 
             //if last, will break
-            if (!c) {
+            if (!cur_c) {
                 break;
             }
         }
 
-        str_index++;
+        cur_index++;
 
     }
 

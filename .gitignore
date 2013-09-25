@@ -6,6 +6,7 @@
 *.exe
 out/
 OUT/
+*.stackdump
 
 *.pydevproject
 #.project

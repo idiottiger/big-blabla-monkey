@@ -14,8 +14,8 @@
 int main(int argc, char **argv) {
     int result_size = 0;
     const char* str =
-            "hello,go to, hoho, world, kicl,your ass,hoo, go,add, ello,";
-    const char** result = string_split_string(str, '#', &result_size);
+            ",,hello,d,go to, hoho, world, kicl,your ass,hoo, go,add, ello,,,";
+    const char** result = string_split_string(str, ',', &result_size);
 
     if (result) {
         printf("str[%s] \n", str);
