@@ -68,4 +68,42 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<filteredResources>
+		<filter>
+			<id>1380074141296</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-debug</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1380074141311</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-release</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1380074141316</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-out</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1380074141321</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-*.exe</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
 </projectDescription>

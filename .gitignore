@@ -2,6 +2,11 @@
 ## Eclipse
 #################
 
+# exclude 
+*.exe
+out/
+OUT/
+
 *.pydevproject
 #.project
 .metadata

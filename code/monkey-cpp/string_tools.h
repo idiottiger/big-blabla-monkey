@@ -9,8 +9,6 @@
 #define STRING_TOOLS_H_
 
 const char** string_split_string(const char* str, char splite,
-                                  int* resultArraySize);
-
-
+                                 int* resultArraySize);
 
 #endif /* STRING_TOOLS_H_ */
