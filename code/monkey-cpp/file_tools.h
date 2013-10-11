@@ -24,7 +24,6 @@ char* file_get_file_content(const char* path, size_t read_offset,
                             size_t read_size);
 char* file_get_file_content(FILE* file);
 
-
-
+off_t file_get_file_length(const char* path);
 
 #endif /* FILE_TOOLS_H_ */
