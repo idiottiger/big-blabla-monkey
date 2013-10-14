@@ -23,3 +23,56 @@ That's fine. Thank you very much!
 
 #ERROR:
 	tourist 
+
+******************************************************************
+#L17 & L18
+	Richards
+	Jackson
+	Nicola Grey
+	Claire Taylor
+	Michael Baker
+	Jeremy Short	
+---------------------------------------------
+Come and meet our employees, Mr Richards. Thank you, Mr Jackson.
+This is Nicola Grey, and this is Claire Taylor. How do you do?
+Those women are very hard working, what are their jobs? 
+They're keyboard operators. This is Michael Baker, and this is Jeremy Short.
+How do you do? They aren't very busy, what are their jobs? They'er sells *, they're very lazy.
+Who is this young man? This is Jim, he is our office assistant.
+
+#ERROR:
+	hard working -> hard-working
+	sells -> sales reps
+
+***********************************************************************
+#L19 & L20
+------------------------------------------------
+what's the matter, children? We're tired and thristy, mum. Sit down here. Are you alright now?
+No, we aren't. Look, there's an icecream man. Two icecreams, please. Here you are, children.
+Thanks, mum. These icecreams are nice. Are you alright now? Yes, we are, thank you.
+
+#ERROR:
+	alright -> all right
+	icecream -> ice cream
+
+***************************************************************************
+#L21 && L22
+-------------------------------------------------
+Give me a book please, Jane. Which book, this one? 
+No, not that one, the red one. This one? Yes, please.
+Here you are! Thank you.
+
+
+***************************************************************************	
+#L23 && L24
+-------------------------------------------------
+Give me some glasses please. Jane. Which glasses? These glasses? 
+No, not those. The one's on the shelf. This? Yes, please. Here you are!
+Thanks!
+
+#ERROR:
+	one's -> ones
+	This? -> These?
+	
+***************************************************************************	
+
