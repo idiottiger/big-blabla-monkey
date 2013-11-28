@@ -7,9 +7,21 @@
         ((= x 0) 0)
         ((< x 0)(- x))))
 
+;; run self 
 (define (cal x y)(* y 
                     (cond ((> y x) (cal x (- y 1)))
                           (else 1)
                            )))
 
-(define (is_right s x)(
+;;check is right
+(define (is_right s x)(< (my_abs(- x (* s s))) 0.01))
+
+;; like programming: if ? what : another
+(define (my_abss x)(if (< x 0) (- x) x))
+
+;; and
+(define (check x)(and (> x 5) (< x 10)))
+;; or
+(define (check2 x)(or (> x 100) (< x 10)))
+
+;; not
