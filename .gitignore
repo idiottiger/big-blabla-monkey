@@ -7,6 +7,8 @@
 out/
 OUT/
 *.stackdump
+.tags
+.tags_sorted_by_file
 
 *.pydevproject
 #.project
@@ -21,6 +23,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+__temp*
 
 # External tool builders
 .externalToolBuilders/

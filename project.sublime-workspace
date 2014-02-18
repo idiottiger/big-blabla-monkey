@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"include"
+			],
+			[
 				"pr",
 				"print_msg"
 			],
@@ -15,6 +19,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "code/unix-c/file_io_test.c",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -51,7 +63,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 647.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -68,6 +80,7 @@
 	},
 	"file_history":
 	[
+		"/home/id2go/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
 		"/home/id2go/dev/project/big-blabla-monkey/code/monkey-cpp/jump_test.c",
 		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-workspace",
 		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-project",
@@ -140,8 +153,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "code/unix-c/file_io_test.c",
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
