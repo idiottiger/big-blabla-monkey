@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"tem",
+				"temp_1_fd"
+			],
+			[
+				"open",
+				"openat"
+			],
+			[
+				"te",
+				"temp_folder_fd"
+			],
+			[
+				"fd",
+				"fd3"
+			],
+			[
+				"file",
+				"file_io_test"
+			],
+			[
 				"in",
 				"include"
 			],
@@ -23,7 +43,31 @@
 			"file": "code/unix-c/file_io_test.c",
 			"settings":
 			{
-				"buffer_size": 76,
+				"buffer_size": 1156,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/id2go/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code/unix-c/__temp/__temp1.txt",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code/android-ndk-headers/include/fcntl.h",
+			"settings":
+			{
+				"buffer_size": 2025,
 				"line_ending": "Unix"
 			}
 		}
@@ -80,6 +124,13 @@
 	},
 	"file_history":
 	[
+		"/home/id2go/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/id2go/dev/project/big-blabla-monkey/.gitignore",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/temp.txt",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/fcntl.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/linux/fcntl.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm/fcntl.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm-generic/fcntl.h",
 		"/home/id2go/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
 		"/home/id2go/dev/project/big-blabla-monkey/code/monkey-cpp/jump_test.c",
 		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-workspace",
@@ -153,7 +204,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -161,23 +212,102 @@
 					"file": "code/unix-c/file_io_test.c",
 					"settings":
 					{
-						"buffer_size": 76,
+						"buffer_size": 1156,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								76,
-								76
+								704,
+								704
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C.tmLanguage"
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/id2go/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "code/unix-c/__temp/__temp1.txt",
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "code/android-ndk-headers/include/fcntl.h",
+					"settings":
+					{
+						"buffer_size": 2025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1821,
+								1821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -226,6 +356,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"fcntl.h",
+				"code/android-ndk-headers/include/fcntl.h"
+			]
 		],
 		"width": 0.0
 	},
@@ -241,6 +375,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 286.0,
+	"side_bar_width": 249.0,
 	"status_bar_visible": true
 }
