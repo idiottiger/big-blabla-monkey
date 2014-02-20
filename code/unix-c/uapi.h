@@ -9,6 +9,7 @@
 	
 
 	/** create file **/
-	int uapi_create_file(const char* path);
+	int uapi_is_directory(const char* path);
+	int uapi_is_directory(int fd);
 
 #endif
