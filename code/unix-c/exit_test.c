@@ -17,8 +17,11 @@ int main(){
 	//register exit callback
 
 	//reverse order
+	//_exit,_Exit vs exit
+	//if _exit and _Exit WILL DONT INVOKE atexit register, and dont flush std
+
 	atexit(exit_callback1);
 	atexit(exit_callback2);
 
-	exit(EXIT_FAILURE);
+	_exit(0);
 }
