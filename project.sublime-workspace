@@ -4,16 +4,180 @@
 		"selected_items":
 		[
 			[
+				"rea",
+				"read_size"
+			],
+			[
+				"r",
+				"rdata"
+			],
+			[
+				"ra",
+				"rdata"
+			],
+			[
+				"fun",
+				"fun1"
+			],
+			[
+				"mc",
+				"m_cond"
+			],
+			[
+				"m",
+				"m_counter"
+			],
+			[
+				"fu",
+				"fun1"
+			],
+			[
+				"de",
+				"destroy"
+			],
+			[
+				"pth",
+				"pthread"
+			],
+			[
+				"lock",
+				"lock_init"
+			],
+			[
+				"mu",
+				"mutex_release"
+			],
+			[
+				"th",
+				"threadRun1"
+			],
+			[
+				"pthr",
+				"pthread_mutex_unlock"
+			],
+			[
+				"pt",
+				"pthread_mutex_lock"
+			],
+			[
+				"pthre",
+				"pthread_exit"
+			],
+			[
+				"threa",
+				"thread_result"
+			],
+			[
+				"t",
+				"thread_id"
+			],
+			[
+				"thr",
+				"thread_id"
+			],
+			[
+				"new",
+				"new_pid"
+			],
+			[
+				"func",
+				"func3"
+			],
+			[
+				"get",
+				"getenv"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"in",
+				"int_array"
+			],
+			[
+				"int",
+				"int_array"
+			],
+			[
+				"ex",
+				"exit_callback"
+			],
+			[
 				"tem",
-				"temp_1_fd"
+				"temp_name"
+			],
+			[
+				"te",
+				"temp_name"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"wr",
+				"write_content"
+			],
+			[
+				"wi",
+				"write_content"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"cu",
+				"cur_dir_buffer"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"__tem",
+				"__temp1"
+			],
+			[
+				"S_IR",
+				"S_IROTH"
+			],
+			[
+				"w",
+				"write_size"
+			],
+			[
+				"n",
+				"new_offset"
+			],
+			[
+				"e",
+				"error_log"
+			],
+			[
+				"P",
+				"printf"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"cur",
+				"cur_offset"
+			],
+			[
+				"temp",
+				"temp_folder_fd"
 			],
 			[
 				"open",
 				"openat"
-			],
-			[
-				"te",
-				"temp_folder_fd"
 			],
 			[
 				"fd",
@@ -22,10 +186,6 @@
 			[
 				"file",
 				"file_io_test"
-			],
-			[
-				"in",
-				"include"
 			],
 			[
 				"pr",
@@ -40,34 +200,34 @@
 	"buffers":
 	[
 		{
-			"file": "code/unix-c/file_io_test.c",
+			"file": "/home/id2go/blog/1di0t.github.io/_posts/2014-02-25-welcome-to-jekyll.markdown",
 			"settings":
 			{
-				"buffer_size": 1156,
+				"buffer_size": 897,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/id2go/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+			"file": "/home/id2go/blog/1di0t.github.io/index.html",
 			"settings":
 			{
-				"buffer_size": 212,
+				"buffer_size": 282,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "code/unix-c/__temp/__temp1.txt",
+			"file": "/home/id2go/blog/1di0t.github.io/css/main.css",
 			"settings":
 			{
-				"buffer_size": 10,
+				"buffer_size": 2464,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "code/android-ndk-headers/include/fcntl.h",
+			"file": "/home/id2go/blog/my_blog/css/main.css",
 			"settings":
 			{
-				"buffer_size": 2025,
+				"buffer_size": 2464,
 				"line_ending": "Unix"
 			}
 		}
@@ -75,9 +235,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 306.0,
+		"height": 355.0,
 		"selected_items":
 		[
+			[
+				"fo",
+				"Format Code"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -107,7 +271,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 449.0
+		"width": 435.0
 	},
 	"console":
 	{
@@ -124,14 +288,57 @@
 	},
 	"file_history":
 	[
+		"/home/id2go/blog/my_blog/_posts/2014-02-25-welcome-to-jekyll.markdown",
+		"/home/id2go/blog/my_blog/index.html",
+		"/home/id2go/blog/my_blog/_layouts/default.html",
+		"/home/id2go/blog/1di0t.github.io/index.html",
+		"/home/id2go/blog/instruction",
+		"/home/id2go/blog/my_blog/_config.yml",
+		"/home/id2go/dev/project/big-blabla-monkey/code/csapp/code.s",
+		"/home/id2go/dev/log.txt",
+		"/home/id2go/dev/project/big-blabla-monkey/code/csapp/code.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/ipc/pipe_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/pthread/pthread_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/pthread/pthread_mutex.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/pthread/pthread_rwlock.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/pthread/pthread_cond.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/pthread.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm/signal.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/mem_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/jump_test.c",
+		"/home/id2go/dev/log",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/env_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/process_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/exit_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/std_io_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/std_io_test2.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/sys/sysconf.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/__temp.txt",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/file_dir_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/stdio.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/search_folder.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/linux/limits.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/dirent.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/linux/stat.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/log.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/sys/cdefs.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/machine/cdefs.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/uapi.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/dup_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm/stat.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/notes/advance-unix-programming-notes",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/file_io_test.c",
+		"/home/id2go/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/id2go/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/__temp/__temp1.txt",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/fcntl.h",
+		"/home/id2go/.config/sublime-text-2/Packages/User/Git.sublime-settings",
 		"/home/id2go/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/id2go/dev/project/big-blabla-monkey/.gitignore",
 		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/temp.txt",
-		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/fcntl.h",
 		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/linux/fcntl.h",
 		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm/fcntl.h",
 		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm-generic/fcntl.h",
-		"/home/id2go/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
 		"/home/id2go/dev/project/big-blabla-monkey/code/monkey-cpp/jump_test.c",
 		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-workspace",
 		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-project",
@@ -171,6 +378,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ssl",
+			"open",
+			"SSL",
+			"read",
+			"rwlock",
+			"spin",
+			"bar",
+			"barrier",
+			"init",
+			"swapper",
+			"temp_name",
+			"h",
 			"			\n",
 			"ctrl+alt+m",
 			"sqlite3_prepare16",
@@ -204,81 +423,54 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "code/unix-c/file_io_test.c",
+					"file": "/home/id2go/blog/1di0t.github.io/_posts/2014-02-25-welcome-to-jekyll.markdown",
 					"settings":
 					{
-						"buffer_size": 1156,
+						"buffer_size": 897,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								704,
-								704
+								897,
+								897
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 306.0,
+						"translation.y": 255.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/id2go/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"file": "/home/id2go/blog/1di0t.github.io/index.html",
 					"settings":
 					{
-						"buffer_size": 212,
+						"buffer_size": 282,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								212,
-								212
+								282,
+								282
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 187.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "code/unix-c/__temp/__temp1.txt",
-					"settings":
-					{
-						"buffer_size": 10,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10,
-								10
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -287,27 +479,57 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "code/android-ndk-headers/include/fcntl.h",
+					"buffer": 2,
+					"file": "/home/id2go/blog/1di0t.github.io/css/main.css",
 					"settings":
 					{
-						"buffer_size": 2025,
+						"buffer_size": 2464,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1821,
-								1821
+								1168,
+								1168
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 663.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/id2go/blog/my_blog/css/main.css",
+					"settings":
+					{
+						"buffer_size": 2464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1168,
+								1168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -357,6 +579,30 @@
 		"selected_items":
 		[
 			[
+				"pthread.h",
+				"code/android-ndk-headers/include/pthread.h"
+			],
+			[
+				"signa",
+				"code/android-ndk-headers/include/asm/signal.h"
+			],
+			[
+				"stdio.h",
+				"code/android-ndk-headers/include/stdio.h"
+			],
+			[
+				"cd",
+				"code/android-ndk-headers/include/machine/cdefs.h"
+			],
+			[
+				"cdef",
+				"code/android-ndk-headers/include/sys/cdefs.h"
+			],
+			[
+				"git",
+				"/home/id2go/.config/sublime-text-2/Packages/Git/Git.sublime-settings"
+			],
+			[
 				"fcntl.h",
 				"code/android-ndk-headers/include/fcntl.h"
 			]
@@ -375,6 +621,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 249.0,
+	"side_bar_width": 198.0,
 	"status_bar_visible": true
 }
