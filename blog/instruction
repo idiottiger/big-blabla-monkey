@@ -1,11 +1,9 @@
 1. install ruby
 	remove ruby first:
-		 sudo aptitude purge ruby(version)
+		sudo aptitude purge ruby(version)
     install ruby stable vesion (2.1.1)
     download the source code and compile
 
     openssl-dev
     libopenssl-ruby1.9.1
-
-
-2. build    
+   
