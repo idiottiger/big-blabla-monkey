@@ -7,3 +7,5 @@
     openssl-dev
     libopenssl-ruby1.9.1
    
+
+   Missing dependency: kramdown: gem install kramdown
