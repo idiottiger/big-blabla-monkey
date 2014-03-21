@@ -200,34 +200,34 @@
 	"buffers":
 	[
 		{
-			"file": "/home/id2go/blog/1di0t.github.io/_posts/2014-02-25-welcome-to-jekyll.markdown",
+			"file": "blog/_posts/2014-02-25-test-textile-synax.textile",
 			"settings":
 			{
-				"buffer_size": 897,
+				"buffer_size": 979,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/id2go/blog/1di0t.github.io/index.html",
+			"file": "blog/_config.yml",
 			"settings":
 			{
-				"buffer_size": 282,
+				"buffer_size": 56,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/id2go/blog/1di0t.github.io/css/main.css",
+			"file": "blog/instruction",
 			"settings":
 			{
-				"buffer_size": 2464,
+				"buffer_size": 252,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/id2go/blog/my_blog/css/main.css",
+			"file": "blog/_posts/2014-02-25-first-page-with-jekyll.markdown",
 			"settings":
 			{
-				"buffer_size": 2464,
+				"buffer_size": 1099,
 				"line_ending": "Unix"
 			}
 		}
@@ -288,10 +288,17 @@
 	},
 	"file_history":
 	[
+		"/home/id2go/dev/project/big-blabla-monkey/blog/build_blog.sh",
+		"/home/id2go/dev/project/big-blabla-monkey/.gitignore",
+		"/home/id2go/dev/project/big-blabla-monkey/blog/instruction",
+		"/home/id2go/dev/project/big-blabla-monkey/blog/_posts/2014-02-25-first-page-with-jekyll.markdown",
+		"/home/id2go/blog/1di0t.github.io/css/main.css",
+		"/home/id2go/blog/1di0t.github.io/_posts/2014-02-25-welcome-to-jekyll.markdown",
+		"/home/id2go/blog/1di0t.github.io/index.html",
+		"/home/id2go/blog/my_blog/css/main.css",
 		"/home/id2go/blog/my_blog/_posts/2014-02-25-welcome-to-jekyll.markdown",
 		"/home/id2go/blog/my_blog/index.html",
 		"/home/id2go/blog/my_blog/_layouts/default.html",
-		"/home/id2go/blog/1di0t.github.io/index.html",
 		"/home/id2go/blog/instruction",
 		"/home/id2go/blog/my_blog/_config.yml",
 		"/home/id2go/dev/project/big-blabla-monkey/code/csapp/code.s",
@@ -334,7 +341,6 @@
 		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/fcntl.h",
 		"/home/id2go/.config/sublime-text-2/Packages/User/Git.sublime-settings",
 		"/home/id2go/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-		"/home/id2go/dev/project/big-blabla-monkey/.gitignore",
 		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/temp.txt",
 		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/linux/fcntl.h",
 		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm/fcntl.h",
@@ -428,49 +434,49 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/id2go/blog/1di0t.github.io/_posts/2014-02-25-welcome-to-jekyll.markdown",
+					"file": "blog/_posts/2014-02-25-test-textile-synax.textile",
 					"settings":
 					{
-						"buffer_size": 897,
+						"buffer_size": 979,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								897,
-								897
+								400,
+								400
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 255.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/id2go/blog/1di0t.github.io/index.html",
+					"file": "blog/_config.yml",
 					"settings":
 					{
-						"buffer_size": 282,
+						"buffer_size": 56,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								282,
-								282
+								56,
+								56
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -480,56 +486,52 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/home/id2go/blog/1di0t.github.io/css/main.css",
+					"file": "blog/instruction",
 					"settings":
 					{
-						"buffer_size": 2464,
+						"buffer_size": 252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1168,
-								1168
+								232,
+								232
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 969.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/home/id2go/blog/my_blog/css/main.css",
+					"file": "blog/_posts/2014-02-25-first-page-with-jekyll.markdown",
 					"settings":
 					{
-						"buffer_size": 2464,
+						"buffer_size": 1099,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1168,
-								1168
+								257,
+								257
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 867.0,
+						"translation.y": 306.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -621,6 +623,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 198.0,
+	"side_bar_width": 392.0,
 	"status_bar_visible": true
 }
