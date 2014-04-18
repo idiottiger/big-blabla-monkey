@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "My first post with jekyll"
+title:  "Test textile synax "
 date:   2014-02-25 18:35:17
 categories: posts
 ---
 
-# Test most common markdown synax effects in the jekyll #
+h1.Test most common textile synax effects in the jekyll
 
-header
+h3.header
 ==================================
 
-## h2 header ##
-## h3 header ##
-### h4 header ###
+h2.h2 header
+h3.h3 header
+h4.h4 header
 
 
-Emphasis
+h3.Emphasis
 =================
 *italics*
 **bold**
 **_bold_ and italics**
-~~ cross line ~~
+~~cross line~~
 
-list
+h3.list
 ==================
 
 1. first
@@ -36,17 +36,14 @@ list
  ...blabla
  ...end
 
-links
+h3.links
 =======================
 
-[link to google](http://www.google.com "google site")
-also can use the link define below [google-url]
-
-[google-url]: http://www.google.com
+"google url":http://www.google.com
 
 
 
-code highlight
+h3.code highlight
 ==========================
 
 {% highlight c linenos %}
@@ -60,19 +57,18 @@ int main(){
 
 {% endhighlight %}
 
-image
+h3.image
 ============================
+girl picture !{{site.url}}/images/girl.jpg!
 
-![girl picture]({{site.url}}/images/girl.jpg "beauty, isn't it?")
 
-
-Blockquotes
+h3.Blockquotes
 ===========================
 
-> block message content
-> can also add *italics* and **bold**
+bq. block message content
+bq. can also add *italics* and **bold**
 
-gist
+h3.gist
 =============================
 
 {% gist 6681385 %}
