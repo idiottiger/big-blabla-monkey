@@ -1,0 +1,17 @@
+file list:
+----------------------------
+1.FizzBuzzWhizz.c
+2.FizzBuzzWhizzMore.c  -- add the fuction which can change the student number
+
+
+how to compile and run:
+----------------------
+compile: use gcc or cc 
+	gcc -o FizzBuzzWhizz FizzBuzzWhizz.c
+	cc -o FizzBuzzWhizz FizzBuzzWhizz.c
+
+run: 
+	FizzBuzzWhizz.exe (under windows)
+	./FizzBuzzWhizz   (unix or mac )
+
+	
