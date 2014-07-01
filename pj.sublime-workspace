@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"tem",
+				"temp_1_fd"
+			],
+			[
+				"open",
+				"openat"
+			],
+			[
+				"te",
+				"temp_folder_fd"
+			],
+			[
+				"fd",
+				"fd3"
+			],
+			[
+				"file",
+				"file_io_test"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"pr",
+				"print_msg"
+			],
+			[
+				"u",
+				"u_number"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "opengl/firstOpenGl.cpp",
+			"settings":
+			{
+				"buffer_size": 1028,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 300.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Sets",
+				"Set Syntax: C"
+			],
+			[
+				"Make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/idiot2ger/dev/project/big-blabla-monkey/project.sublime-project",
+		"/home/idiot2ger/dev/opengl/firstOpenGl.cpp",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/c/Test.c",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/c/FizzBuzzWhizz.c",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/STL/MapTest.cpp",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/READ.txt",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/monkey-cpp/sizeof.c",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/monkey-cpp/Object1.cpp",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/monkey-cpp/.cproject",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/monkey-cpp/.project",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/monkey-cpp/jump_test.c",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/unix-c/file_io_test.c",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/project.sublime-workspace",
+		"/home/id2go/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/unix-c/__temp/__temp1.txt",
+		"/home/idiot2ger/dev/project/big-blabla-monkey/code/android-ndk-headers/include/fcntl.h",
+		"/home/id2go/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/id2go/dev/project/big-blabla-monkey/.gitignore",
+		"/home/id2go/dev/project/big-blabla-monkey/code/unix-c/temp.txt",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/fcntl.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/linux/fcntl.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm/fcntl.h",
+		"/home/id2go/dev/project/big-blabla-monkey/code/android-ndk-headers/include/asm-generic/fcntl.h",
+		"/home/id2go/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/id2go/dev/project/big-blabla-monkey/code/monkey-cpp/jump_test.c",
+		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-workspace",
+		"/home/id2go/dev/project/big-blabla-monkey/project.sublime-project",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/id2go/dev/project/big-blabla-monkey/english/IELTS.word",
+		"/home/id2go/dev/project/big-blabla-monkey/english/sentence",
+		"/home/id2go/dev/project/big-blabla-monkey/english/new concept english/new_words.txt",
+		"/home/idiot2ger/english/big-blabla-monkey/english/new concept english/book-1/lesson_all.txt",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/Emmet/Emmet.sublime-settings",
+		"/home/idiot2ger/dev/js/learn.html",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/Markdown Preview/test.md",
+		"/home/idiot2ger/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/idiot2ger/dev/source_code/sqlite/android/OldPhoneNumberUtils.cpp",
+		"/home/idiot2ger/dev/source_code/sqlite/CleanSpec.mk",
+		"/home/idiot2ger/dev/source_code/sqlite/jni/android_database_SQLiteDatabase.cpp",
+		"/home/idiot2ger/dev/source_code/sqlite/SQLiteHelper.cpp",
+		"/home/idiot2ger/dev/source_code/sqlite/jni/android_database_SQLiteCompiledSql.cpp",
+		"/home/idiot2ger/dev/source_code/sqlite/dist/sqlite3.h",
+		"/home/idiot2ger/dev/source_code/sqlite/dist/sqlite3.c",
+		"/home/idiot2ger/dev/source_code/sqlite/android/sqlite3_android.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"			\n",
+			"ctrl+alt+m",
+			"sqlite3_prepare16",
+			"sqlite3_prepare16_v12",
+			"sqlite3_prepare16",
+			"sqlite3_prepare_v16",
+			"sqlite3_prepare_v2",
+			"m_dbPath",
+			"sqlite3_open_",
+			"sqlite3_prepare16_v2",
+			"sqlite3_prepare16",
+			"sqlite3_prepare_v16",
+			"sqlite3_prepare_v2",
+			"sqlite3_prepare16_v2",
+			"sqlite3_step",
+			"android"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "opengl/firstOpenGl.cpp",
+					"settings":
+					{
+						"buffer_size": 1028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1028,
+								1028
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fcntl.h",
+				"code/android-ndk-headers/include/fcntl.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}
